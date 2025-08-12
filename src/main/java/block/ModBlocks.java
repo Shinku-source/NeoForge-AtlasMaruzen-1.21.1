@@ -21,11 +21,11 @@ public class ModBlocks {
 
     public static final DeferredBlock<Block> ALUMINIUM_BLOCK = registerBlock("aluminium_block",
             () -> new Block(BlockBehaviour.Properties.of()
-                    .strength(1.5f).requiresCorrectToolForDrops().sound(SoundType.METAL)));
+                    .strength(0.5f).requiresCorrectToolForDrops().sound(SoundType.METAL)));
 
     public static final DeferredBlock<Block> BAUXITE_ORE = registerBlock("bauxite_ore",
             () -> new DropExperienceBlock(UniformInt.of(2, 4),
-                    BlockBehaviour.Properties.of().strength(1f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
+                    BlockBehaviour.Properties.of().strength(0.1f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
 
     private static <T extends Block> DeferredBlock<T> registerBlock(String name, Supplier<T> block) {
         DeferredBlock<T> toReturn = BLOCKS.register(name, block);

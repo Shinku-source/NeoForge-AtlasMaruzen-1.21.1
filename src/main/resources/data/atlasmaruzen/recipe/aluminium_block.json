@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "atlasmaruzen:aluminium"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "result":{
+    "count": 1,
+    "id": "atlasmaruzen:aluminium_block"
+  }
+}

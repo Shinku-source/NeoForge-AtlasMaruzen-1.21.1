@@ -3,5 +3,8 @@
   "item.atlasmaruzen.bauxite": "Bauxite",
 
   "block.atlasmaruzen.aluminium_block": "Block of Aluminium",
-  "block.atlasmaruzen.bauxite_ore": "Bauxite Ore"
+  "block.atlasmaruzen.bauxite_ore": "Bauxite Ore",
+
+  "creativetab.atlasmaruzen.atlasmaruzen_items": "AtlasMaruzen Items",
+  "creativetab.atlasmaruzen.atlasmaruzen_blocks": "AtlasMaruzen Blocks"
 }

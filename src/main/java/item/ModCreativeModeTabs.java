@@ -33,6 +33,7 @@ public class ModCreativeModeTabs {
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModBlocks.BAUXITE_ORE);
                         output.accept(ModBlocks.ALUMINIUM_BLOCK);
+                        output.accept(ModBlocks.BAUXITE_DEEPSLATE_ORE);
 
                     }).build());
 

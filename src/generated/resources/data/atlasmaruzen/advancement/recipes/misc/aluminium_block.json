@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_aluminium": {
+      "conditions": {
+        "items": [
+          {
+            "items": "atlasmaruzen:aluminium"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "atlasmaruzen:aluminium_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_aluminium"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "atlasmaruzen:aluminium_block"
+    ]
+  }
+}

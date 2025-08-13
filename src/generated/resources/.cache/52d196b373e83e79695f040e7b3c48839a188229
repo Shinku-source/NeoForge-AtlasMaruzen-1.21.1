@@ -1,0 +1,10 @@
+// 1.21.1	2025-08-13T03:40:33.349893854	Block States: atlasmaruzen
+0c6eba043892ec339646df4238b701c71774a773 assets/atlasmaruzen/blockstates/aluminium_block.json
+8ce5d157079f3d50a13ccaf8a6cb7550d55a924c assets/atlasmaruzen/blockstates/bauxite_deepslate_ore.json
+e838ec94f978b87705a00bcb8211a990e571cc1d assets/atlasmaruzen/blockstates/bauxite_ore.json
+c45f9380309b10fa812853c2369510338d5c5ee7 assets/atlasmaruzen/models/block/aluminium_block.json
+e4760c24096529d1450a0b6855d00028d437272f assets/atlasmaruzen/models/block/bauxite_deepslate_ore.json
+ddc2e279284b7ffebcb02c5aa67dd29bd5e0870e assets/atlasmaruzen/models/block/bauxite_ore.json
+05ba6908639172aab0a6e0b345bc28bc601e1df4 assets/atlasmaruzen/models/item/aluminium_block.json
+6dc3dde0501c5c50a908c1fc63c084adc0e33bae assets/atlasmaruzen/models/item/bauxite_deepslate_ore.json
+2f015fd2bb2874cfb9eb1695a3e8652061e1efe0 assets/atlasmaruzen/models/item/bauxite_ore.json

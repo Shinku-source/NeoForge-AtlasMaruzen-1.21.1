@@ -1,11 +1,11 @@
 {
-  "type": "minecraft:smelting",
+  "type": "minecraft:blasting",
   "category": "misc",
-  "cookingtime": 200,
+  "cookingtime": 100,
   "experience": 0.7,
   "group": "aluminium",
   "ingredient": {
-    "item": "atlasmaruzen:bauxite"
+    "item": "atlasmaruzen:alumina"
   },
   "result": {
     "id": "atlasmaruzen:aluminium"

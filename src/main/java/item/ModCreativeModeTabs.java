@@ -23,6 +23,7 @@ public class ModCreativeModeTabs {
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.BAUXITE);
                         output.accept(ModItems.ALUMINIUM);
+                        output.accept(ModItems.ALUMINA);
 
                     }).build());
 
